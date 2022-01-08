@@ -4,7 +4,7 @@ int small(int a,int b);
 int main()
 
 {
-    int a,b,smallest,num;
+    int a,b,smallest;
     printf("Enter the Two values: \n");
     scanf("%d %d",&a,&b);
     if (a==b)
